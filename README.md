@@ -1,5 +1,6 @@
 # Data_science_covid
 Nesse projeto de analise de dados com python foi utilizado a biblioteca panda, seaborn e matplotlib.pyplot para extrair as seguinte informações
+
 Cidade com mais casos de covid;
 
 Cidade com menos casos de covid;
