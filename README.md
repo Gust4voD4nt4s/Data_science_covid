@@ -1,26 +1,26 @@
 # Data_science_covid
-Nesse projeto de analise de dados com python foi utilizado a biblioteca panda, seaborn e matplotlib.pyplot para extrair as seguinte informações
+In this project of data analysis with python, the panda library, seaborn and matplotlib.pyplot were used to extract the following information
 
-Cidade com mais casos de covid;
+City with the most cases of covid;
 
-Cidade com menos casos de covid;
+City with fewer cases of covid;
 
-Estado com mais casos de covid;
+State with the most cases of covid;
 
-Estado com menos casos de covid;
+State with fewer cases of covid;
 
-Cidade com mais mortes por covid;
+City with the most deaths from covid;
 
-Cidade com menos mortes por covid;
+City with the fewest deaths from covid;
 
-Estado com mais mortes por covid;
+State with the most deaths from covid;
 
-Estado com menos mortes por covid;
+State with the fewest deaths from covid;
 
-Total de casos de covid no Brasil;
+Total cases of covid in Brazil;
 
-Total de mortes por covid no Brasil;
+Total deaths from covid in Brazil;
 
-Gerar um gráfico barplot com 5 estados com mais mortes
+Generate a barplot chart with 5 states with the most deaths
 
-Gerar um gráfico histograma com 5 estados com menos mortes
+Generate a histogram chart with 5 states with the fewest deaths
